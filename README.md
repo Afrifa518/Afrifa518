@@ -49,6 +49,7 @@ Most of my production code is private for business reasons, but you can read det
 | 🏦 **KPee Platform** | Multi-tenant cooperative SaaS — 1 FastAPI backend + 10 frontend apps (web + mobile) serving cooperatives, a commodity marketplace, and platform admins. | [kpee-platform-overview](https://github.com/Afrifa518/kpee-platform-overview) |
 | 🤖 **KPee AI** | Role-scoped AI agent system — 8 specialised agents, multi-provider LLM routing with fallback, analytical firewall, knowledge-base retrieval, and DB/API connectors. | [kpee-ai-overview](https://github.com/Afrifa518/kpee-ai-overview) |
 | ⛪ **GraceLife Mission Intl.** | Full public website + protected staff CMS for a church — Events, Sermons, Gallery, Ministries, Donations, server-side paginated admin tables. | [grace-life-mission](https://github.com/Afrifa518/grace-life-mission) |
+| 🛍️ **House of Ajwigs** | End-to-end e-commerce for a Ghanaian wig retailer — storefront, customer accounts, payments, and a full staff CMS. Next.js + Supabase. | [ajwigs-app](https://github.com/Afrifa518/ajwigs-app) |
 | 🎓 **Event Management (Laravel)** | GI-KACE group final project — full event management system built with Laravel / Blade. | [Event-Management-group-3](https://github.com/Afrifa518/Event-Management-group-3) |
 
 ---

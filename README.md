@@ -2,6 +2,8 @@
   This is the profile README.
   It goes in a repo named exactly `Afrifa518` (github.com/Afrifa518/Afrifa518).
   GitHub renders it at the top of your profile.
+  You already have the repo — it's the one currently pinned and labelled
+  "Config files for my GitHub profile." Just replace its README.md with this.
 -->
 
 <h1 align="center">Hi, I'm Afrifa Yaw Ankamah 👋</h1>

@@ -91,6 +91,5 @@ Most of my production code is private for business reasons, but you can read det
 
 - **Email** &nbsp;·&nbsp; afrifabusiness518@gmail.com
 - **Phone / WhatsApp** &nbsp;·&nbsp; +233 50 968 7490
-- **Location** &nbsp;·&nbsp; Accra, Ghana — remote-ready, UTC+0
+- **Location** &nbsp;·&nbsp; Accra, Ghana UTC+0
 
-**If you're hiring for backend or full-stack roles and want someone who's shipped real production systems solo, let's talk.**

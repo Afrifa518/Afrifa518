@@ -14,7 +14,6 @@
 <p align="center">
   <a href="mailto:afrifabusiness518@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-afrifabusiness518%40gmail.com-1F3A5F?style=flat-square&logo=gmail&logoColor=white"/></a>
   <img alt="Location" src="https://img.shields.io/badge/Accra-Ghana%20(UTC%2B0)-222?style=flat-square"/>
-  <img alt="Open to work" src="https://img.shields.io/badge/Open%20to-Remote%20work-2ea44f?style=flat-square"/>
 </p>
 
 ---
